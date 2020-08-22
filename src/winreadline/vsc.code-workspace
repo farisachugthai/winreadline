@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\scoop\\apps\\winpython\\current\\python-3.8.1.amd64\\Lib\\site-packages\\prompt_toolkit"
+		}
+	],
+	"settings": {}
+}

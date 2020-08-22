@@ -1,0 +1,15 @@
+build
+dist
+pyreadline.egg-info/
+__pycache__/
+*.bak
+MANIFEST
+*.*~
+*.pyc
+*.pyo
+**tags**
+docs/build
+.*venv*
+.vs
+.vscode
+.idea
